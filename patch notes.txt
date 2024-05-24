@@ -1,0 +1,15 @@
+alfa : concept game
+beta : weapon plotting, different weapons, weapon stats
+beta-ai: auto shooting, reflexes, control console
+beta_OOP: object orientated programming
+RC1 : main menu, weapon chosing, settings menu, ingame weapons swapping, fixed minigun, minigun cooldown, weapon balancing
+RC2 : shooting sounds, minigun cooldown at start, sniper reload sounds
+RC3 : fixed weapon rotation while moving in 2 directions, fixed sniper damage count
+RC4 : changed weapon rotation, implemented collision detection
+RC5 : implemented map, collision with walls, fixed shooting through walls, fixed minigun cooldown at start, fixed sniper damaging through walls
+RC6 : hotkeys in menus
+RC ai 1: nodes plotting
+RC ai 2: pathfinding
+RC ai 3: following path
+RC ai 4: automatically follow path, algorithm optimization
+RC ai 5: automatically shoot if line of sight
